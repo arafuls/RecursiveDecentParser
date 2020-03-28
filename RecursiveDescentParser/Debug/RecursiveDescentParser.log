@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\source\repos\recursivedescentparser\recursivedescentparser\main.cpp(236): warning C4018: '<': signed/unsigned mismatch
+  RecursiveDescentParser.vcxproj -> C:\Users\Austin\source\repos\RecursiveDescentParser\Debug\RecursiveDescentParser.exe
